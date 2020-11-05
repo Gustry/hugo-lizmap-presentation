@@ -3,8 +3,11 @@ languageCode = "en-us"
 title = "Lizmap"
 
 theme = "reveal-hugo"
+relativeURLs = true
+uglyURLs = true
 
 [outputFormats.Reveal]
 baseName = "index"
 mediaType = "text/html"
 isHTML = true
+
