@@ -19,3 +19,5 @@ jobs:
         uses: chabad360/hugo-gh-pages@master
         with:
           githubToken: ${{ secrets.PERSONAL_TOKEN }}
+          hugoVersion: extended_0.68.3
+          args: --gc --minify --cleanDestinationDir
