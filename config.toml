@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Lizmap"
+
+theme = "reveal-hugo"
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
