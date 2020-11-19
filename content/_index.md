@@ -3,14 +3,19 @@ title = "Lizmap"
 outputs = ["Reveal"]
 [logo]
 src = "lizmap.png"
+alt = "Product logo"
+width = "7%"
 +++
 
-# Generate a web GIS application with QGIS
+## Lizmap
 
----
+### Create Web GIS application with QGIS
 
-# QGIS IS NOT ONLY A DESKTOP APP
+![QGIS ID](/qgis_id.jpg)
 
-* QGIS Server to publish over the net
-* QGIS Processing to process data in bulk on server
-* QField, a mobile [Q]GIS solution
+QGIS Indonesian
+User group
+
+🦎
+
+21/11/2020
