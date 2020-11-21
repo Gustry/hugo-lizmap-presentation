@@ -11,14 +11,18 @@ InaSAFE 2015 - 2018
 {{% /fragment %}}
 
 {{% fragment %}}
+
 ![InaSAFE](/bnpb.jpg)
+
 {{% /fragment %}}
 
 {{% note %}}
-- Namaku Etienne
-- Saya bekerja untuk InaSAFE
-- dengan Mas ...
+- Selamat datang di presentasi Lizmap
+- Nama saya Etienne
+- Saya dulu mengerjakan inasafe bersama mas sunni dan adi
+- tiga tahun lalu
 - Saya suka berbicara Bahasa Indonesia, tapi saya akan berbicara dalam bahasa Inggris
+- QGIS Plugin InaSAFE, DMI Innovation, BNPB
 {{% /note %}}
 
 ---

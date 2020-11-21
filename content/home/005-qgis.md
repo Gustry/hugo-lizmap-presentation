@@ -1,8 +1,10 @@
 +++
-weight = 1
+weight = 5
 +++
 
-## QGIS - The Leading Open Source Desktop GIS
+# QGIS
+
+## The leading Open Source Desktop GIS
 
 ![Logo QGIS](logo_qgis.png)
 
@@ -11,84 +13,51 @@ Software.
 
 ---
 
-## QGIS Desktop has many capabilities
+## QGIS Desktop 
+
+## Many capabilities
 
 ---
 
-### A lot of styles 🎨
+## A lot of styles 🎨
 
-![InaSAFE](inasafe_desktop.jpg)
-
----
-
-### Report generation
-
-![InaSAFE](inasafe_report.png)
+![Styles](inasafe_desktop.jpg)
 
 ---
 
-### Data analysis
+## Report generation 🖨
 
-![InaSAFE](data_analysis.png)
+![Reports](inasafe_report.png)
 
 ---
+
+## Data analysis 📈
+
+![Analysis](data_analysis.png)
+
+---
+
+## Forms
+
+![Forms](form.png)
+
+---
+
+## QGIS
+
+* Was a **simple** PostgreSQL/PostGIS **viewer** 🐘
+* Licensed under the **GNU General Public License**
+* Project of the **Open Source Geospatial Foundation** (OSGeo)
+* Runs on Linux, Unix, Mac OSX, Windows and Android
+* Supports **numerous** vector, raster, and database **formats** and **functionalities**.
+
+---
+
 
 ## QGIS is not only a Desktop app
 
 * **QField** a mobile [Q]GIS solution
 * **QGIS Server** as an OGC Data Server
-* **QGIS Processing** console tool
+* **QGIS Processing** console tool (on a server or not)
 
 ![Logo QGIS](logo_qgis.png)
-
----
-
-## Need to publish web maps ?
-
-* You already **use and love QGIS**
-* You need to publish a **full-featured applications** on the web
-* You have **no time** to set up and configure web maps in **complex admin panels** nor reinventing the wheel
-
-![Lizmap](media/logo_lizmap_small.png)
-
----
-
-## Lizmap ♥ QGIS
-
-* The **QGIS desktop project** is your **web map configuration**: symbology, printing composers, attribute tables, editing forms, expressions, etc.
-* As **QField**, Prepare once deploy everywhere
-* **Lizmap QGIS plugin**: configure only specific map options (scales, available tools)
-* **Web admin panel** mainly for **authentication and authorization management** (users & groups)
-* It is **open-source**: Mozilla Public Licence
-
-![Lizmap](media/logo_lizmap_small.png)
-
----
-## A growing community
-
-* Different types of users
-  * private companies
-  * public organizations
-  * research centers
-* Main contribution in **translation and documentation**
-* JS scripts repository contributions
-* Bug triaging
-
-🇫🇷
-🇵🇹
-🇧🇷
-🇨🇿
-🇮🇹
-🇭🇺
-🇳🇱
-🇪🇸
-🇵🇱
-🇮🇩
-🇫🇮
-🇸🇪
-🇩🇪
-🇷🇺
-🇬🇷
-🇹🇷
-🇸🇮
-...
