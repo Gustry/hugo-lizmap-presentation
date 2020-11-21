@@ -18,7 +18,7 @@ InaSAFE 2015 - 2018
 
 {{% note %}}
 - Nama saya Etienne
-- Saya dulu mengerjakan inasafe bersama mas sunni dan adi
+- Saya dulu mendevelop inasafe bersama mas sunni dan adi
 - tiga tahun lalu
 - Saya suka berbicara Bahasa Indonesia, tapi saya akan berbicara dalam bahasa Inggris
 - QGIS Plugin InaSAFE, DMI Innovation, BNPB
