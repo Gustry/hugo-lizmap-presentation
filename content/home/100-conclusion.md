@@ -34,6 +34,16 @@ Twitter
 
 ---
 
+## QGIS Swiss User group 🇨🇭
+
+### 24/11/2020
+
+### New features in Lizmap 3.4
+
+[Website](https://www.qgis.ch/en/association/user-meetings/user-meeting-online-autumn-2020)
+
+---
+
 ## Terima kasih
 
 Sampai jumpa !
