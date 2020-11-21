@@ -60,13 +60,17 @@ Get
 
 ---
 
+![Lizmap](demo.jpg)
+
+---
+
 ## Lizmap 💕 QGIS
 
 * The **QGIS desktop project** is your **web map configuration**: symbology, printing composers, attribute tables, editing forms, expressions, etc.
 * As **QField**, Prepare once deploy everywhere
 * **Lizmap QGIS plugin**: configure only specific map options (scales, available tools)
 * **Web admin panel** mainly for **authentication and authorization management** (users & groups)
-* It is **open-source**: Mozilla Public Licence
+* It is **open-source**: Mozilla Public Licence on GitHub
 
 ![Lizmap](logo_lizmap_small.png)
 
@@ -105,6 +109,12 @@ Lizmap configuration, data and others files
 {{< slide transition="zoom" transition-speed="fast" >}}
 
 😲 You've got a web map based on this QGIS project 😲
+
+---
+
+### Under the hood
+
+![architecture](architecture.jpg)
 
 ---
 
@@ -256,7 +266,7 @@ Lizmap configuration, data and others files
   * public organizations
   * research centers
 * Main contributions in **translation and documentation**
-* JS scripts repository contributions
+* JavaScript scripts repository contributions
 * Bug triaging
 
 🇫🇷
@@ -294,13 +304,27 @@ Lizmap configuration, data and others files
 
 ---
 
-## Extensibility
+## Extensions
 
-* Server sides modules
+* QGIS Server plugins
+* Server sides Lizmap modules
+  * Map builder
+  * WPS
 * User Javascript scripts
 * CSS themes
-* Map Builder module
 * HTML powered : iframes, video/audio, etc.
+
+---
+
+![padang](padang.jpg)
+
+---
+
+## WPS : Web Processing Service
+
+Export QGIS Toolbox on the web
+
+![wps](wps.gif)
 
 ---
 

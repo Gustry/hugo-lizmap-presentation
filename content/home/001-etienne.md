@@ -17,7 +17,6 @@ InaSAFE 2015 - 2018
 {{% /fragment %}}
 
 {{% note %}}
-- Selamat datang di presentasi Lizmap
 - Nama saya Etienne
 - Saya dulu mengerjakan inasafe bersama mas sunni dan adi
 - tiga tahun lalu
@@ -34,6 +33,6 @@ InaSAFE 2015 - 2018
 * QGIS **core** contributors (mainly server)
 * 8 employees
 * QGIS / QGIS Server / PostgreSQL / Lizmap
-* Development, server hosting, consulting, support, training
+* Development, server hosting, consultings, support, trainings
 
 ![Logo 3liz](logo_3liz_small.png)

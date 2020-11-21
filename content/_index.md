@@ -19,3 +19,7 @@ User group
 🦎
 
 21/11/2020
+
+{{% note %}}
+- Selamat datang di presentasi Lizmap
+{{% /note %}}
